@@ -1,5 +1,5 @@
 FROM alpine:latest
-LABEL maintainer=Mynarco.
+LABEL maintainer=pmrazor
 ENV ASPHYXIA_VERSION=1.70b
 ENV ASPHYXIA_PLUGIN_VERSION=0.5
 WORKDIR /usr/local/share
